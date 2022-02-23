@@ -1,0 +1,24 @@
+3.15. Un topógrafo inicia su tarea en la esquina sudeste de 
+una parcela y registra los siguientes desplazamientos: A = 600 m, N; B = 400 m, O; C = 200 m, S, 
+y D = 100 m, E. ¿Cuál es el desplazamiento neto 
+desde el punto de partida? Resp. 500 m, 126.9°
+
+3.17 Las tres fuerzas siguientes actúan simultáneamente 
+sobre el mismo objeto: A = 300 N, 30° N del E; 
+B = 600 N, 270°; y C = 100 N hacia el Este. Halle la 
+fuerza resultante mediante el método del polígono.
+Resp. 576 N,51.4° S^del E
+
+3.23 El martillo de la figura 3.28 aplica una fuerza de
+260 N en un ángulo de 15o con respecto a la vertical. ¿Cuál es el componente ascendente de la fuerza 
+ejercida sobre el clavo? Resp. 251 N
+
+3.33 Calcule la fuerza resultante que actúa sobre el perno
+de la figura 3.31 Resp. 691.6 N, 154.1°
+
+3.35. Tres embarcaciones ejercen fuerzas sobre un gancho de amarre como muestra la figura 3.32. Halle la ¡ 
+resultante de esas tres fuerzas.
+Resp. 853 N, 101.7°
+
+3.47. Calcule la fuerza resultante que actúa sobre la argolla
+de la figura 3.34. Resp. 311.5°, 25.6° N O
